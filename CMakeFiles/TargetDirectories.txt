@@ -1,0 +1,10 @@
+A:/Visual Studio Projects/C++/CALCULATOR/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/CMakeFiles/CALCULATOR.dir
+A:/Visual Studio Projects/C++/CALCULATOR/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/CMakeFiles/CALCULATOR_qmlimportscan.dir
+A:/Visual Studio Projects/C++/CALCULATOR/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+A:/Visual Studio Projects/C++/CALCULATOR/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+A:/Visual Studio Projects/C++/CALCULATOR/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/CMakeFiles/list_install_components.dir
+A:/Visual Studio Projects/C++/CALCULATOR/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/CMakeFiles/install.dir
+A:/Visual Studio Projects/C++/CALCULATOR/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/CMakeFiles/install/local.dir
+A:/Visual Studio Projects/C++/CALCULATOR/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/CMakeFiles/install/strip.dir
+A:/Visual Studio Projects/C++/CALCULATOR/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/CMakeFiles/CALCULATOR_autogen_timestamp_deps.dir
+A:/Visual Studio Projects/C++/CALCULATOR/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/CMakeFiles/CALCULATOR_autogen.dir
