@@ -1,0 +1,23 @@
+# ninja log v6
+11	200	7732646894157499	.qt/qml_imports/CALCULATOR_build.cmake	2111961b229d1f80
+11	200	7732646894157499	A:/Visual Studio Projects/C++/CALCULATOR/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/.qt/qml_imports/CALCULATOR_build.cmake	2111961b229d1f80
+201	864	7732646900176416	CALCULATOR_autogen/timestamp	516e4b3fd0b4cdc4
+201	864	7732646900176416	CALCULATOR_autogen/mocs_compilation.cpp	516e4b3fd0b4cdc4
+201	864	7732646900176416	A:/Visual Studio Projects/C++/CALCULATOR/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/CALCULATOR_autogen/timestamp	516e4b3fd0b4cdc4
+201	864	7732646900176416	A:/Visual Studio Projects/C++/CALCULATOR/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/CALCULATOR_autogen/mocs_compilation.cpp	516e4b3fd0b4cdc4
+868	2055	7732646901232391	CMakeFiles/CALCULATOR.dir/CALCULATOR_autogen/mocs_compilation.cpp.obj	906d798b247895af
+872	2101	7732646901232391	CMakeFiles/CALCULATOR.dir/main.cpp.obj	7fd3a1c14b3afc9b
+875	2425	7732646901310565	CMakeFiles/CALCULATOR.dir/mainwindow.cpp.obj	a8696142cd778d0f
+2425	2543	7732646916817097	CALCULATOR.exe	2fc782fb50082b53
+16	203	7732650101829942	CALCULATOR_autogen/timestamp	516e4b3fd0b4cdc4
+16	203	7732650101829942	CALCULATOR_autogen/mocs_compilation.cpp	516e4b3fd0b4cdc4
+16	203	7732650101829942	A:/Visual Studio Projects/C++/CALCULATOR/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/CALCULATOR_autogen/timestamp	516e4b3fd0b4cdc4
+16	203	7732650101829942	A:/Visual Studio Projects/C++/CALCULATOR/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/CALCULATOR_autogen/mocs_compilation.cpp	516e4b3fd0b4cdc4
+204	1749	7732650103715125	CMakeFiles/CALCULATOR.dir/mainwindow.cpp.obj	a8696142cd778d0f
+1749	1867	7732650119153739	CALCULATOR.exe	2fc782fb50082b53
+54	246	7732650439169322	CALCULATOR_autogen/timestamp	516e4b3fd0b4cdc4
+54	246	7732650439169322	CALCULATOR_autogen/mocs_compilation.cpp	516e4b3fd0b4cdc4
+54	246	7732650439169322	A:/Visual Studio Projects/C++/CALCULATOR/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/CALCULATOR_autogen/timestamp	516e4b3fd0b4cdc4
+54	246	7732650439169322	A:/Visual Studio Projects/C++/CALCULATOR/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/CALCULATOR_autogen/mocs_compilation.cpp	516e4b3fd0b4cdc4
+247	1769	7732650441114412	CMakeFiles/CALCULATOR.dir/mainwindow.cpp.obj	a8696142cd778d0f
+1769	1886	7732650456323861	CALCULATOR.exe	2fc782fb50082b53
